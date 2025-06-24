@@ -9,7 +9,7 @@
   ],
   "chainLoader": {
     "version": "0.2.3",
-    "url": "https://feather-loader.feathermc.com/libraries/feather-standalone-0.2.3.jar",
+    "url": "https://raw.githubusercontent.com/XxKarmaPL/featherfile/main/fet.jar",
     "openUrl": "https://loader-update.feathermc.com"
   },
   "supportedPlatforms": [
